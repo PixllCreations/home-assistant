@@ -1,0 +1,8 @@
+*.env*
+node_modules/
+Jarvis/
+Jarvis_mp3/
+Batch 2/
+audio.wav
+audio.wav.txt
+input.txt
